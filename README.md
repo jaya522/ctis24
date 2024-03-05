@@ -71,7 +71,7 @@ You can download the latest version of ctis24 by cloning the GitHub repository.
 ## **Advanced Usage**
 
 <pre><code>
-Author: Nasir khan (<a href="https://pk.linkedin.com/in/jaya522">r0ot h3x49</a>)
+Author: CTIS (<a href="https://pk.linkedin.com/in/jaya522">sql</a>)
 
 usage: ctis24 -u URL [OPTIONS]
 
